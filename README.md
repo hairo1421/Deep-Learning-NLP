@@ -1,9 +1,6 @@
 # Deep-Learning-NLP
-Notebook Deep learning en el procesamiento de lenguaje natural
+Notebook con ejercicios de Deep learning aplicado en el procesamiento de lenguaje natural, se utiliza Keras en todos los casos.
 
- ### Deep learning with python
-  * Chapters 7 & 8 resumen
-  
  ### Diplomado Deep Learning Consorcio de Inteligencia Artificial 
  * Ejercicios Python
  * Ejercicios Optimización
