@@ -4,6 +4,7 @@ Notebook con ejercicios de Deep learning aplicado en el procesamiento de lenguaj
  ### Diplomado Deep Learning Consorcio de Inteligencia Artificial 
  * Ejercicios Python
  * Ejercicios Optimización
+ * Introducción a Keras
  * Tópicos en texto LSA, LDA y NMF (Aplicación a las minutas de Banco de México)
  * Embedding (W2V Google and Twitter, Glover, Fast Text)
  * CNN - NLP (texto), CNN layer con SVM clasificador
