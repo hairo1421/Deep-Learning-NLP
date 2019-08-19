@@ -5,6 +5,8 @@ Notebook con ejercicios de Deep learning aplicado en el procesamiento de lenguaj
  1- Tópicos en texto LSA, LDA y NMF (Aplicación a las minutas de Banco de México)
  
  2- Introducción a Keras
+ 2.1- [Keras Sequential](https://nbviewer.jupyter.org/github/hairo1421/Deep-Learning-NLP/blob/master/2-%20Introducci%C3%B3n%20a%20Keras.ipynb)
+ 2.2- Keras API
  
  3.1- Representación de textos; one hot encoding, TF-IDF
  3.2- Representación de textos; Embedding (W2V Google and Twitter, Glover, Fast Text)
